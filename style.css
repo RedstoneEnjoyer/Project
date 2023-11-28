@@ -1,0 +1,17 @@
+body {
+.red {
+  color: rgb(184, 15, 15);
+  font-size: 35;
+  font-weight: bold;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+a {
+  color: rgb(221, 93, 70); /* Цвет ссылок */
+  text-decoration: none; /* Убираем подчёркивание */
+ }
+
+ .link {
+  color: rgb(221, 93, 70); /* Цвет ссылок */
+  text-decoration: none; /* Убираем подчёркивание */
+ }
+}
